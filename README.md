@@ -1,3 +1,6 @@
+![image](https://github.com/Rapha-Borges/mdBook-action/assets/53947674/6dc3c8d0-9442-4a7b-b30a-1e7f1cdc3355)
+
+
 # mdBook-action
 A custom action to deploy mdBook
 
